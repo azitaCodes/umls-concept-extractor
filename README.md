@@ -28,13 +28,44 @@ The patient was admitted to the ICU with sepsis secondary to a urinary tract inf
 See full output in 👉 [results.txt](results.txt)
 
 ```text
-📘 Term: sepsis
-🧠 UMLS Match: Sepsis
-🆔 CUI: C0243026
+
+---
+
+### ✅ With this updated section:
+
+```markdown
+## ✅ Example Output
+
+See full output in 👉 [results.txt](results.txt)
+
+```text
+🔍 UMLS concepts found in sentence:
+📝 "The patient was admitted to the ICU with sepsis secondary to a urinary tract infection and showed signs of hypotension, elevated lactate, and decreased urine output."
+
 📘 Term: ICU
 🧠 UMLS Match: Bedside ICU Monitoring
 🆔 CUI: C1547986
-...
+------------------------------------------------------------
+📘 Term: sepsis
+🧠 UMLS Match: Sepsis
+🆔 CUI: C0243026
+------------------------------------------------------------
+📘 Term: urinary tract infection
+🧠 UMLS Match: Urinary tract infection
+🆔 CUI: C0042029
+------------------------------------------------------------
+📘 Term: hypotension
+🧠 UMLS Match: Hypotension
+🆔 CUI: C0020649
+------------------------------------------------------------
+📘 Term: elevated lactate
+🧠 UMLS Match: Elevated lactate level
+🆔 CUI: C4054756
+------------------------------------------------------------
+📘 Term: decreased urine output
+🧠 UMLS Match: Decreased urine output
+🆔 CUI: C3887784
+------------------------------------------------------------
 ```
 
 ---

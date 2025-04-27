@@ -1,0 +1,18 @@
+📘 UMLS Account Setup and API Key Access Guide
+
+✅ Step 1: Create a UMLS Account
+1. Go to: https://uts.nlm.nih.gov/home
+2. Click "Sign Up" and fill in your info (e.g., student, researcher).
+3. Verify your email.
+
+✅ Step 2: Sign the License Agreement
+1. Log in and go to your profile.
+2. Click “Sign the UMLS Metathesaurus License Agreement”.
+3. Wait for approval email (usually within 24 hours).
+
+✅ Step 3: Get Your API Key
+1. Log in at https://uts.nlm.nih.gov/uts/profile
+2. Copy your “UMLS API Key”.
+
+✅ Step 4: Use the API Key in Python
+Use your API key to authenticate and query the UMLS REST API using Python and the 'requests' package.

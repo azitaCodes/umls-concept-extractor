@@ -75,7 +75,7 @@ See full output in 👉 [results.txt](results.txt)
 ### 1. Clone the Repo
 
 ```bash
-git clone https://github.com/yourusername/umls-concept-extractor.git
+git clone https://github.com/azitaCodes/umls-concept-extractor.git
 cd umls-concept-extractor
 ```
 
@@ -130,4 +130,4 @@ This will:
 
 ## 🙌 Author
 
-Made by [Your Name] – Ph.D. student at Cleveland State University
+Made by Azita Ramezani – Ph.D. student at Cleveland State University
